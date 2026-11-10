@@ -1,0 +1,17 @@
+﻿MEKA ÜRÜN KARAR HARİTASI — 10 Kasım 2026
+
+Bu paket 7 ayrı ürün için 7 PDF + 7 Excel ve yanıt taslağı içerir.
+İlk 3 ürünün ayrıntılı raporları 9 Kasım, yeni 4 ürünün raporları 10 Kasım tarihlidir.
+
+Sonuç nerede?
+- Genel geliştirme önceliği: sitede Sıralama.
+- Model / ebat önerisi: ürün sayfasında Karar ve Ürün gamı.
+- Eski Excel'lerde Ürün Gamı; yeni Excel'lerde Karar ve Ülke Pazarı / Ürün Gamı.
+- Her PDF'nin ilk sayfasında ürün kararı.
+
+Sıralama açık kaynaklara dayalı analist değerlendirmesidir. Fabrika maliyeti, iç yetkinlik ve müşteri niyeti denetlenmedi.
+Ülke senaryoları gerçekleşmiş satış veya toplam dünya pazarı değildir.
+HPGR, Mogensen, Grasshopper ve teleskopik: 43 ülkenin agrega saha alt kümesi.
+İnce yaş elek: 8 ülkedeki tarihsel cihaz alt kümesi.
+MMD ve ağır elek: ulusal adet bilinmiyor; 100 nitelikli tesis başına duyarlılık hesabı ayrı.
+Boş hücre bilinmeyendir; sıfır değildir. Tüm varsayımlar ve kaynaklar ilgili ürünün dosyalarında.

@@ -1,0 +1,16 @@
+Konu: Yedi ürün grubu için araştırma ve geliştirme önceliği
+
+Ekrem Bey merhaba,
+
+İlave talep ettiğiniz küçük kapasiteli HPGR (özellikle HRC 8), MMD tipi mineral sizer, Schenck tipi ağır maden eleği ve Mogensen tipi kuru sınıflandırıcı çalışmalarını tamamladım. Önceki üç ürünle birlikte toplam yedi ürün grubu, her biri ayrı PDF ve Excel olacak şekilde hazırlandı.
+
+Sonuç önerisi: Mevcut ürün gamına yakınlık ve geliştirme kolaylığı birlikte değerlendirildiğinde ilk aday Grasshopper G30-1000 (30 m, 1.000 mm bant, 500–800 t/saat hedef aralığı). Ardından T42-1000 / T46-1000 teleskopik ortak platformu öneriliyor. Yeni dört ürün içinde ağır maden eleği, belirli bir müşteri göreviyle ilk mühendislik incelemesi adayı. MMD sizer ve küçük HPGR için malzeme testi ve tedarikçi çalışması; Mogensen ve ince yaş elek için uygulama odaklı pilot öneriliyor.
+
+Bu sıralama, üretim onayı değil; açık kaynak araştırmasına dayalı geliştirme önceliği önerisidir. Maliyet, müşteri talebi ve test sonuçlarıyla kesinleştirilmelidir. Kapasite aralıkları ön tasarım hedefidir.
+
+Çalışmanın karar ekranında “Sıralama” bölümünden bütün ürünleri ve seçim gerekçelerini; ürün sayfalarındaki “Ürün gamı” bölümünden önerilen model ve ebatları görebilirsiniz. “Raporlar” bölümünden tam PDF ve Excel çalışmalarına ulaşılabilir. Önceki Excel dosyalarında öneriler “Ürün Gamı” sekmesindedir.
+
+Ülke tablolarında gerçekleşmiş satış, belgelenmiş proje ve varsayımlı senaryo ayrıldı. MMD ve ağır maden elekleri için doğrulanabilir ülke satış toplamı bulunamadığından bu alanlar bilinmiyor olarak bırakıldı; nitelikli tesis sayısıyla çalışan talep duyarlılığı eklendi.
+
+Saygılarımla,
+Mehmet Ulaş Çimen
